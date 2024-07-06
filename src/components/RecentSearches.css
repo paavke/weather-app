@@ -1,0 +1,21 @@
+.recent-searches {
+    margin-top: 20px;
+  }
+  
+  .recent-searches h3 {
+    margin-bottom: 10px;
+  }
+  
+  .recent-searches ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recent-searches li {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px 0;
+    cursor: pointer;
+  }
+  
